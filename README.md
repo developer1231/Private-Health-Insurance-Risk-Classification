@@ -1,13 +1,7 @@
 ## Project Title: Classified Health Insurance
 
-**Authors:**
-- Bilal Akdidach
-
 **Affiliation:**
 The Institute for Computing and Information Sciences, Radboud University, Nijmegen, Gelderland, Netherlands
-
-**Contact:**
-- Bilal Akdidach: bilal.akdidach@ru.nl
 
 ## Abstract
 This project focuses on addressing the increasing competitiveness among private health insurers by exploring three classifiers: Random Forest, Decision Tree, and Logistic Regression. The goal is to categorize individuals as Low or High Risk based on predictions of potential medical costs, enabling private insurers to selectively offer insurance for maximum profit. Our findings indicate that Random Forest exhibits the best overall performance, followed by Logistic Regression and then Decision Tree.
